@@ -1,4 +1,4 @@
-This github contains the the files needed to build a "train spedo V2" found here:
+This github contains the the files needed to build a "train speedo V2" found here:
 
 https://www.instructables.com/Model-Train-Speedometer-V2/
 
